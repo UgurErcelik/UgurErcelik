@@ -1,8 +1,11 @@
-### Hi there 👋
-
 ## I'm Ugur
 
-# Information Systems Engineering in Kocaeli University
+### Information Systems Engineering in Kocaeli University
+
+### My Accounts
+
+*[Linkedin](www.linkedin.com/in/uğur-erçelik)
+*[Twitter](https://twitter.com/ugurerclk)
 
 
 <!--
