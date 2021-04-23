@@ -4,8 +4,8 @@
 
 ### My Accounts
 
-*[Linkedin](www.linkedin.com/in/uğur-erçelik)
-*[Twitter](https://twitter.com/ugurerclk)
+* [Linkedin](www.linkedin.com/in/uğur-erçelik)
+* [Twitter](https://twitter.com/ugurerclk)
 
 
 <!--
