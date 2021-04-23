@@ -4,7 +4,7 @@
 
 ### My Accounts
 
-* [Linkedin](www.linkedin.com/in/uğur-erçelik)
+* [Linkedin](https://www.linkedin.com/in/ugur-ercelik/)
 * [Twitter](https://twitter.com/ugurerclk)
 
 
