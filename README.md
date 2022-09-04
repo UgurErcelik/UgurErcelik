@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ugurercelik@hotmail.com**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@ugurerclik)
+<!--- 📝 I regularly write articles on [Medium](https://medium.com/@ugurerclik) -->
 
 <br>
 
