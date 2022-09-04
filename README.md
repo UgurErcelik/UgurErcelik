@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uğur Erçelik</h1>
 <h3 align="center">Information Systems Engineer</h3>
 
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/UgurErcelik/UgurErcelik/blob/main/2.gif" alt="UgurErcelik" /></p>
 
 - 🔭 I’m currently working on Machine Learning,Deep Learning,Data Science
 
